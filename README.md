@@ -15,5 +15,10 @@ This is repositiory is used as index for the all the others that compose our wor
 - [Smart Contracts and Python scripts](https://github.com/EdoardoV97/federated_ML)
 - [Cairo](https://github.com/EdoardoV97/ZK/tree/MD+ZK)
 
-# Fee satisfiability - Z3 Python script
--TODO
+<!--
+## Fee satisfiability - Z3 Python script
+- TODO
+
+## Testing blockchains
+- TODO
+-->
