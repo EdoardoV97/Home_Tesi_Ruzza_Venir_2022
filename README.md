@@ -12,8 +12,8 @@ This is repositiory is used as index for the all the others that compose our wor
 - [Zero Knowledge Machine Learning](https://github.com/EdoardoV97/ZK/tree/master)
 
 ## Chapter 5 - Prototype
-- [Smart Contracts and Python scripts](https://github.com/EdoardoV97/federated_ML)
-- [Cairo](https://github.com/EdoardoV97/ZK/tree/MD+ZK)
+- [Smart Contracts and Python scripts](https://github.com/EdoardoV97/federated_ML) ⚡ Open the MD_ZK branch
+- [Cairo](https://github.com/EdoardoV97/ZK/tree/MD+ZK) ⚡ Open the MD+ZK branch
 
 <!--
 ## Fee satisfiability - Z3 Python script
