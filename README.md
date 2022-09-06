@@ -21,4 +21,7 @@ This is repositiory is used as index for the all the others that compose our wor
 
 ## Testing blockchains
 - TODO
+
+## CIFAR10 and MNIST tests
+- TODO
 -->
