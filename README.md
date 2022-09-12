@@ -8,8 +8,8 @@ This is repositiory is used as index for the all the others that compose our wor
 - [Zero Knowledge Machine Learning](https://github.com/EdoardoV97/ZK/tree/master)
 
 ## Chapter 5 - Prototype
-- [Smart Contracts and Python script](https://github.com/EdoardoV97/federated_ML) ⚡ Open the ID_ZK branch
-- [Cairo](https://github.com/EdoardoV97/ZK/tree/MD+ZK) ⚡ Open the ID+ZK branch
+- [Smart Contracts and Python script](https://github.com/EdoardoV97/federated_ML) ⚡ Open the IM_ZK branch
+- [Cairo](https://github.com/EdoardoV97/ZK/tree/MD+ZK) ⚡ Open the IM+ZK branch
 
 <!--
 ## Fee satisfiability - Z3 Python script
